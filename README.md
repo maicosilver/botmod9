@@ -25,8 +25,8 @@ npm install
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Nurutomo/wabot-aq
-cd wabot-aq
+git clone https://github.com/maicosilver/botmod9
+cd botmod9
 npm install
 ```
 
